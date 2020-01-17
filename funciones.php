@@ -1,7 +1,7 @@
 <?php 
 
 function conectarBD() {
-	$servername = "10.128.21.247";
+	$servername = "10.130.11.187";
 	$username = "root";
 	$password = "rootroot";
 	$dbname = "empleados08";
